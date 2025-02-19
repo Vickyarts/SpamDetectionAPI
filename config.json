@@ -1,0 +1,15 @@
+{
+    "authorization": {
+        "master-token": "PMyydEd170k2fbj1xLRl749bwN68oVAoJGj5XRuWqd85oiZc"
+    },
+    "training": {
+        "epochs": 128,
+        "db": {
+            "NAME": "database",
+            "USER": "root",
+            "PASSWD": "",
+            "HOST": "localhost",
+            "PORT": "3306"
+        }
+    }
+}
