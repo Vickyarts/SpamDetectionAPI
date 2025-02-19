@@ -339,4 +339,4 @@ python manage.py runserver
 ---
 
 ## 📜 License  
-This project is licensed under **[Your License]**.  
+This project is licensed under [LICENSE](LICENSE).  
